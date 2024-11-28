@@ -1,4 +1,4 @@
 print("Hello, World!")
 
-a = int(input(print("Digite um número: ")))
+a = int(input(print("Digite algum número: ")))
 print(a)
